@@ -1,6 +1,5 @@
 package com.example.pantry.meal.usecase
 
-import com.example.pantry.category.repository.ICategoryRepository
 import com.example.pantry.meal.model.MealResponse
 import com.example.pantry.meal.repository.IMealRepository
 import javax.inject.Inject

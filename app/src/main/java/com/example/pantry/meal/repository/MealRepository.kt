@@ -1,6 +1,6 @@
 package com.example.pantry.meal.repository
 
-import com.example.pantry.category.service.IMealService
+import com.example.pantry.meal.service.IMealService
 import com.example.pantry.meal.model.Meal
 import com.example.pantry.meal.model.MealResponse
 import javax.inject.Inject
